@@ -1,3 +1,0 @@
-* azurerm_virtual_machine.myterraformvm: Code="VMMarketplaceInvalidInput" Message="Creating a virtual machine from Marketplace image requires Plan information in the request. VM: '/subscriptions/5e4f9478-a772-4a7e-84d2-5995f5ac5e3a/resourceGroups/ntmads/providers/Microsoft.Compute/virtualMachines/myVM'."
-
-Add plan details also and now is running. 
