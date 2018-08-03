@@ -15,10 +15,8 @@ variable "nic" {}
 variable "network_security_group" {}
 variable "location" {}
 variable "tag" {}
-
 ###
 variable ipname {}
 variable ip_resource_group_name {}
 variable domain_name_label {}
-
 variable osdisk {} 
